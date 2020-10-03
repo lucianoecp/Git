@@ -1,4 +1,4 @@
 # Git
 Guia de comandos básicos:
 
-https://github.com/lucianoecp/Git/wiki
+https://github.com/lucianoecp/Git.wiki.git

@@ -1,3 +1,4 @@
 # Git
-guia de ferramentas do git
+Guia de comandos básicos:
+
 https://github.com/lucianoecp/Git/wiki

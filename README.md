@@ -1,2 +1,2 @@
 # Git
-guia de ferramentas do github
+guia de ferramentas do git

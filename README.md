@@ -1,4 +1,7 @@
 # Git
-Guia de comandos básicos:
+Guia de comandos básicos: 
 
-https://github.com/lucianoecp/Git.wiki
+Por favor verifique a wiki desse repositório
+
+clone
+https://github.com/lucianoecp/Git.wiki.git
